@@ -10,7 +10,7 @@
  
 ## How to run Backend
 * enter folder backend
-* set .env ( example is on file .env_example)
+* create and set .env ( example is on file .env_example)
     * Google API Key
     * Line Acc Token
 * RUN > npm install
